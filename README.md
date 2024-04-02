@@ -1,3 +1,3 @@
-## It draws a Sierpinsky-Triangle
+## It draws a Sierpinski-Triangle
 
 Thanks for coming to my Ted-Talk
