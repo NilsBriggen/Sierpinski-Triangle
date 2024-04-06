@@ -2,9 +2,5 @@
 
 Thanks for coming to my Ted-Talk
 
-New approach
-- Draw Triangle
-- Get point inside
-- Draw line to furthest edge
-- Draw Point at half-way mark
-- Boom, Sierpinski Triangle by bruteforcing it
+main.py -> Attempt to implement it with recursion. Apparently I'm not capable enough.
+ChaosGame.py -> Implementation with the Chaos Game method. Works perfectly, may need some updates to increase rendering speed.
