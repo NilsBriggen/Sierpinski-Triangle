@@ -2,5 +2,5 @@
 
 Thanks for coming to my Ted-Talk
 
-main.py -> Attempt to implement it with recursion. Apparently I'm not capable enough.<br>
+Recursion.py -> Attempt to implement it with recursion. Apparently I'm not capable enough.<br>
 ChaosGame.py -> Implementation with the Chaos Game method. Works perfectly, may need some updates to increase rendering speed.
